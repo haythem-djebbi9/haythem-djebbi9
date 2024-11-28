@@ -1,80 +1,64 @@
 💻 Haythem Djebbi
-👋 Bonjour et bienvenue sur mon profil GitHub !
-Je suis Haythem Djebbi, un étudiant en 1ère année d’ingénierie à la Faculté ESPRIT et développeur passionné par les technologies web et les systèmes backend.
-Mon parcours et mes projets reflètent ma curiosité, ma capacité à apprendre rapidement, et ma détermination à résoudre des problèmes complexes. 🚀
+Développeur Web | Étudiant en Ingénierie à ESPRIT
+📍 Nabeul, Tunisie
+📧 haythem.djebbi@example.com
+🔗 LinkedIn
+🌐 GitHub
 
 🌟 À propos de moi
-🎓 Formation :
-Actuellement étudiant en ingénierie à ESPRIT, diplômé en développement web de l’ISET Nabeul.
-Compétences : Développement web et mobile, avec une expertise en architecture backend et en intégration frontend.
+Bonjour et bienvenue sur mon profil GitHub !
+Je suis Haythem Djebbi, un étudiant en 1ère année d’ingénierie à la Faculté ESPRIT, et passionné par le développement web et backend. Mon parcours, ainsi que mes projets personnels et professionnels, illustrent ma capacité à apprendre rapidement, à résoudre des problèmes complexes et à créer des solutions innovantes.
 
-💼 Expérience :
-Développement de projets web et mobiles, en mettant l’accent sur la création d'applications performantes et évolutives.
-Projets récents : Création d'applications en Angular, Symfony, Spring Boot, et utilisation de bases de données comme MongoDB et MySQL.
+Formation : Étudiant en ingénierie informatique à ESPRIT, diplômé en développement web de l’ISET Nabeul.
+Expérience : Développement d'applications web et mobiles, avec une expertise en backend et intégration frontend.
 
-🚀 Ambitions :
-Mon objectif est de créer des applications robustes et innovantes qui transforment des idées en solutions concrètes, en mettant l'accent sur la performance, la sécurité, et l'expérience utilisateur.
+Technologies : Angular, Spring Boot, Symfony, Express.js, MongoDB, MySQL, Java, Python, TypeScript, Dart.
+
+Ambition : Créer des applications robustes et innovantes qui transforment des idées en solutions concrètes, en mettant l'accent sur la performance, la sécurité, et l'expérience utilisateur.
 
 🛠️ Compétences Techniques
-🎨 Développement Frontend
-Frameworks et Bibliothèques :
-
-Angular : Développement d'applications web modernes et dynamiques.
-React (à explorer) : Librairie JavaScript pour la création d’interfaces utilisateurs interactives.
-Langages :
-
-HTML : Structuration des pages web.
-CSS : Mise en forme et design responsive.
-JavaScript : Langage essentiel pour les interactions sur le web.
-TypeScript : Version typée de JavaScript pour une meilleure maintenabilité.
-Dart : Développement d'applications mobiles avec Flutter.
-Python : Utilisé pour des scripts et des applications côté serveur.
-C : Langage bas niveau pour la programmation système.
-Design et UX/UI :
-
-Conception d’interfaces modernes et intuitives.
-Utilisation de Figma et Adobe XD pour le design d'interfaces utilisateur.
-⚙️ Développement Backend
+Frontend
 Frameworks :
-
-Spring Boot : Développement d'applications Java robustes et sécurisées.
-Symfony : Framework PHP pour des applications web modulaires.
-Express.js : Framework minimaliste pour Node.js, idéal pour les applications légères.
-JEE (Java EE) : Pour la création d'applications web et d'APIs complexes en Java.
+Angular : Développement d'applications web dynamiques et réactives.
+React (à explorer) : Pour la création d'interfaces utilisateurs interactives.
 Langages :
-
-Java : Langage de programmation orienté objet pour des applications serveur.
-PHP : Langage serveur pour des sites dynamiques.
+HTML, CSS : Structuration et design responsive des pages web.
+JavaScript, TypeScript : Interaction et gestion dynamique des pages.
+Dart : Pour le développement mobile avec Flutter.
+Python : Utilisé pour des scripts et applications backend légères.
+Design & UX/UI :
+Conception d'interfaces modernes et intuitives.
+Outils : Figma, Adobe XD pour des designs et prototypes.
+Backend
+Frameworks :
+Spring Boot : Développement d'applications Java robustes et sécurisées.
+Symfony : Framework PHP pour la création d'applications web évolutives.
+Express.js : Développement d'applications backend légères avec Node.js.
+JEE (Java EE) : Pour des applications web et APIs complexes en Java.
+Langages :
+Java : Pour des applications serveur évolutives.
+PHP : Développement de sites dynamiques et APIs.
 Bases de données :
-
-MongoDB : Base de données NoSQL orientée document pour des applications modernes.
-MySQL : Base de données relationnelle pour des applications traditionnelles.
-PostgreSQL : Système de gestion de base de données relationnelle, robuste et performant.
-🚀 Outils & DevOps
+MongoDB : Base de données NoSQL pour des applications modernes.
+MySQL, PostgreSQL : Bases de données relationnelles robustes.
+DevOps & Outils
 Gestion de version :
-
-Git : Suivi des versions de code source et gestion des projets.
-GitHub : Plateforme de collaboration pour les projets de développement.
-Outils de collaboration et gestion de projets :
-
-Jira : Outil de gestion de projets pour planifier et suivre l'avancement.
-Trello : Tableau de bord visuel pour organiser les tâches et projets.
+Git : Suivi des versions et gestion des branches de développement.
+GitHub : Collaboration et partage de code avec la communauté.
+Gestion de projets :
+Jira, Trello : Pour la gestion de tâches et la planification des projets.
 Environnements de développement :
-
-IntelliJ IDEA : IDE puissant pour Java et Spring.
-VS Code : Éditeur de code léger et polyvalent.
-Android Studio : IDE pour le développement d'applications Android.
+IntelliJ IDEA, VS Code, Android Studio : Outils utilisés pour le développement d'applications backend et frontend.
 Cloud & DevOps :
-
-Familiarité avec les services AWS et Azure pour le déploiement et l'hébergement des applications.
-Expérience avec des outils comme Docker pour la conteneurisation et Kubernetes pour l'orchestration.
-
+Expérience avec AWS, Azure pour le déploiement et l'hébergement des applications.
+Familiarité avec Docker pour la conteneurisation et Kubernetes pour l’orchestration.
 🎯 Objectifs à Court Terme
-📖 Approfondir mes compétences en DevOps, déploiement cloud, et gestion des infrastructures sur des plateformes comme AWS et Azure.
-🌱 Explorer davantage les technologies NoSQL pour la gestion de données massives et l’intelligence artificielle.
-🤝 Collaborer sur des projets open source pour contribuer à la communauté et enrichir mon expérience.
-💡 Expérimenter avec les microservices pour concevoir des applications encore plus évolutives et performantes.
+Approfondir mes compétences en DevOps, déploiement cloud et gestion d'infrastructure sur des plateformes comme AWS et Azure.
+Explorer les technologies NoSQL et l'intelligence artificielle pour des applications encore plus performantes et intelligentes.
+Contribuer à des projets open source pour enrichir mon expérience et participer à la communauté.
+Expérimenter avec des microservices pour concevoir des applications modulaires et évolutives.
 🌐 Connectez avec moi
-💼 LinkedIn : Haythem Djebbi
-📫 Email : haythem.djebbi@example.com
-🌟 Portfolio : (à venir 🚧)
+Email : haythem.djebbi@example.com
+LinkedIn : Haythem Djebbi
+Portfolio : (À venir 🚧)
+GitHub : haythem-djebbi9
