@@ -1,60 +1,15 @@
-💻 Haythem Djebbi
-Développeur Web | Étudiant en Ingénierie à ESPRIT
-📍 Nabeul, Tunisie
-📧 haythem.djebbi@esprit.tn
-🔗 LinkedIn
-🌐 GitHub
+<h1 align="center">Hi 👋, I'm Haythem Djebbi</h1>
+<h3 align="center">Développeur Web | Étudiant en Ingénierie à ESPRIT</h3>
 
-🌟 À propos de moi
-Bonjour et bienvenue sur mon profil GitHub !
-Je suis Haythem Djebbi, un étudiant en 1ère année d’ingénierie à la Faculté ESPRIT, passionné par le développement web et backend. Mon parcours, ainsi que mes projets personnels et professionnels, montrent ma capacité à apprendre rapidement, résoudre des problèmes complexes et créer des solutions innovantes.
+- 🌱 I’m currently learning **Angular, React, Node.js Machine Learning (Coursera) Docker, Kubernetes (DevOps)**
 
-Formation : Étudiant en ingénierie informatique à ESPRIT, diplômé en développement web de l'ISET Nabeul.
-Expérience : Développement d'applications web et mobiles, expertise en backend et intégration frontend.
-Technologies : Angular, Spring Boot, Symfony, Express.js, MongoDB, MySQL, Java, Python, TypeScript, Dart.
-Ambition : Créer des applications robustes et innovantes axées sur la performance, la sécurité et l'expérience utilisateur.
-🛠️ Compétences Techniques
-Frontend
-Frameworks :
-Angular : Développement d'applications web dynamiques et réactives.
-React (à explorer) : Librairie pour la création d'interfaces utilisateurs interactives.
-Langages :
-HTML, CSS : Structuration et design responsive.
-JavaScript, TypeScript : Gestion dynamique des pages et interactions.
-Dart : Développement d'applications mobiles avec Flutter.
-Python : Scripts et applications backend légères.
-Design & UX/UI :
-Conception d'interfaces modernes et intuitives.
-Outils : Figma, Adobe XD.
-Backend
-Frameworks :
-Spring Boot : Applications Java robustes et sécurisées.
-Symfony : Framework PHP pour applications évolutives.
-Express.js : Applications backend légères avec Node.js.
-JEE (Java EE) : Applications web et APIs complexes.
-Langages :
-Java : Pour des applications serveur évolutives.
-PHP : Développement de sites dynamiques et APIs.
-Bases de données :
-MongoDB : Base de données NoSQL.
-MySQL, PostgreSQL : Bases relationnelles robustes.
-DevOps & Outils
-Gestion de version :
-Git, GitHub : Suivi de versions et collaboration.
-Gestion de projets :
-Jira, Trello : Gestion des tâches et des projets.
-Environnements de développement :
-IntelliJ IDEA, VS Code, Android Studio.
-Cloud & DevOps :
-AWS, Azure : Déploiement et hébergement des applications.
-Docker et Kubernetes : Conteneurisation et orchestration des applications.
-🎯 Objectifs à Court Terme
-Approfondir mes compétences en DevOps, déploiement cloud, et gestion des infrastructures.
-Explorer les technologies NoSQL et l'intelligence artificielle.
-Contribuer à des projets open source pour enrichir mon expérience et ma visibilité dans la communauté tech.
-Expérimenter avec des microservices pour créer des applications modulaires et évolutives.
-🌐 Connectez avec moi
-Email : haythem.djebbi@example.com
-LinkedIn : Haythem Djebbi
-Portfolio : (À venir 🚧)
-GitHub : haythem-djebbi9
+- 💬 Ask me about **Spring Boot Symfony Express.js JEE (Java EE)**
+
+- 📫 How to reach me **haythem.djebbi@esprit.tn**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
