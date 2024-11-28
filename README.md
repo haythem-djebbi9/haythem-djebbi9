@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, React, Node.js Machine Learning (Coursera) Docker, Kubernetes (DevOps)**
 
-- 💬 Ask me about **Spring Boot Symfony Express.js JEE (Java EE)**
+- 💬 Ask me about **Spring Boot Symfony Express.js JEE (Java EE) , Angular**
 
 - 📫 How to reach me **haythem.djebbi@esprit.tn**
 
