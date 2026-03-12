@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:haythem.djebbi@esprit.tn">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">💼 LinkedIn</a> •
+  <a href="www.linkedin.com/in/haythem-djebbi-785ab9219/">💼 LinkedIn</a> •
   <a href="https://github.com/haythem-djebbi9">💻 GitHub</a>
 </p>
 
