@@ -1,130 +1,168 @@
 <h1 align="center">Hi 👋, I'm Haythem Djebbi</h1>
-<h3 align="center">Software Engineering Student @ ESPRIT | Full-Stack Developer (Java · Spring Boot · NestJS · Angular) | DevOps & Cloud</h3>
 
 <p align="center">
-🚀 Building scalable full-stack applications, cloud-native backends, and AI-powered products — currently looking for a <b>final-year internship (PFE) 2026-2027 in France</b>.
+  <a href="https://github.com/haythem-djebbi9">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+NestJS;Cloud-native+backends+%26+microservices;DevOps+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+CI%2FCD;Open+to+a+PFE+internship+in+France+(2026-2027)" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-<a href="mailto:djebbihaitem9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haythem-djebbi-785ab9219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/haythem-djebbi9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <b>Final-year Software Engineering student @ ESPRIT</b> — I build scalable full-stack apps, event-driven backends and AI-powered products, and I ship them to production.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=haythem-djebbi9&label=Profile%20views&color=0e75b6&style=flat" alt="haythem-djebbi9" />
+  <a href="mailto:djebbihaitem9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/haythem-djebbi-785ab9219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/haythem-djebbi9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=haythem-djebbi9&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<br>
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Software Engineering student at **ESPRIT** (Tunis) — graduating 2027
-- 🌍 Based in Tunisia — **actively looking for a PFE (final-year internship) in France, 2026-2027**
-- 💼 4 internships completed since 2022 — full-stack web & mobile, REST API design, microservices architecture
-- 🧠 Focused on: scalable backend architecture (Spring Boot, NestJS), DevOps (Docker, Kubernetes, CI/CD), and applied AI
-- 💬 Ask me about: `Spring Boot` `NestJS` `Angular` `React` `Docker` `Kubernetes` `Microservices`
-- 🗣️ French (C1) · English (B2) · Arabic (native)
+```java
+public class HaythemDjebbi {
 
-<br>
+    String role       = "Full-Stack Developer · Software Engineering student @ ESPRIT (class of 2027)";
+    String basedIn    = "Tunisia 🇹🇳 — mobile to France 🇫🇷";
+    String lookingFor = "PFE (final-year internship) 2026-2027 · Backend · Full-Stack · DevOps";
+
+    int internships   = 4;  // since 2022 — web & mobile, REST APIs, microservices
+
+    String[] focus     = { "Scalable backends", "Microservices & messaging", "DevOps & Cloud", "Applied AI" };
+    String[] languages = { "French (C1)", "English (B2)", "Arabic (native)" };
+}
+```
+
+**⚡ Right now**
+- 🔭 Building **NICETEK**, a multi-module e-learning SaaS (Next.js · NestJS · Prisma)
+- 🚀 Shipping **Kounouz Alafia** to production on a self-managed VPS (Docker · RabbitMQ)
+- 🌱 Going deeper into Kubernetes, CI/CD pipelines and observability (Prometheus · Grafana)
+- 💬 Ask me about `Spring Boot` `NestJS` `Angular` `React` `Docker` `RabbitMQ` `Microservices`
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,ts,js,py,php&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,laravel,django,symfony&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,flutter,figma&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,rabbitmq,pytorch&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,git&perline=10" /></td>
+  </tr>
+</table>
 
-**Backend**
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
-</p>
-
-**Frontend & Mobile**
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**DevOps & Cloud**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
-
-**Databases & Data**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-
-<br>
+---
 
 ## 🚀 Featured Projects
 
 ### 🎓 NICETEK — SaaS E-Learning Platform
-*Full-Stack internship project, ongoing since 07/2026*
-Full-stack SaaS platform built around 5 modules: LMS, AI-assisted tutoring, gamification, certification, and a multi-instructor marketplace, extended toward a B2B offering.
-`Next.js` `NestJS` `PostgreSQL` `Prisma` `Docker` `Figma`
+`Next.js` `NestJS` `PostgreSQL` `Prisma` `Docker` `Figma` &nbsp;·&nbsp; *Full-stack internship project — 07/2026 → ongoing*
 
-### 🩺 DeepSkyn — AI Skin Analysis Platform
-*[À CONFIRMER — décrire ici selon ta décision : projet perso ResNet18, ou PIDEV d'équipe]*
-`NestJS` `PyTorch` `PostgreSQL` `Docker`
+A full-stack SaaS learning platform built around **5 modules**, extended toward a B2B offering:
+- 📚 **LMS** — courses, lessons and learner progress
+- 🤖 **AI-assisted tutoring** for learners
+- 🏆 **Gamification** and **certification**
+- 🛒 **Multi-instructor marketplace**
+- 🎨 Designed end-to-end in Figma, typed data layer with Prisma, containerized with Docker
+
+### 🍯 Kounouz Alafia — Traceable Honey E-Commerce Platform
+`React` `NestJS` `PostgreSQL` `RabbitMQ` `Docker` &nbsp;·&nbsp; 🔗 [kounouzalafia.io](https://kounouzalafia.io) &nbsp;·&nbsp; 🚧 *In active development*
+
+E-commerce platform for natural honey and apiculture products (rare honeys, royal jelly, propolis, pollen) with **end-to-end batch traceability**: every jar carries a **QR code** that links to its lab analysis certificate.
+- 👥 **5 role-based portals** — customer, producer, field agent, lab verification team, admin — secured with RBAC
+- 🔌 Versioned REST API (`/api/v1`) covering catalog, cart, orders, batches and lab workflow
+- 📨 **6 RabbitMQ queues** for async processing: orders, stock, lab workflow, QR generation, scans, notifications
+- 🐳 Dockerized and self-hosted on a VPS, with separate **staging** and **production** environments
 
 ### 🌍 AFAAQ — Digital Expatriation Portal
-Multilingual full-stack portal (Arabic RTL, French, German) helping candidates prepare their expatriation to Germany, Austria, Italy, and France, with an AI-powered back-office and a company job-posting space.
-`React` `NestJS` `PostgreSQL` `Docker`
+`React` `NestJS` `PostgreSQL` `Docker` `Groq API` &nbsp;·&nbsp; *Client project*
+
+Multilingual portal (**Arabic RTL**, French, German) helping candidates prepare their move to Germany, Austria, Italy and France.
+- 📝 Guided multi-step application: personal data, passport, languages, education, experience, document upload
+- 🤖 **AI-powered back-office**: free-text answers auto-translated into German for reviewers, original kept side by side
+- 📂 Case tracking for candidates (status + reviewer remarks) and a **company space** to post job offers
+- ☁️ Deployed on Vercel + Render + Neon (serverless PostgreSQL)
+
+### 🩺 DeepSkyn — AI Skin Analysis Platform
+`NestJS` `PyTorch` `PostgreSQL` `Docker`
+<!-- TODO: add the context line (personal project with ResNet18, or team PIDEV project) and 2-3 bullets about your own part -->
+
+AI-powered skin analysis platform: users upload a skin image, a **PyTorch deep-learning model** returns an analysis, served through a NestJS API.
 
 ### 🧩 Distributed Microservices Architecture
-Ecosystem of 4 decoupled Spring Boot microservices, using RabbitMQ for asynchronous messaging, absorbing peaks of 500+ messages/second.
 `Spring Boot` `RabbitMQ` `Docker` `Angular` `PostgreSQL`
 
+Ecosystem of **4 decoupled Spring Boot microservices** communicating asynchronously through RabbitMQ, absorbing peaks of **500+ messages/second**.
+
+---
+
+## 🎓 Team Projects @ ESPRIT
+
+### 🧠 Sensa — AI-Powered Multimodal Social Network
+`Python` `Django` &nbsp;·&nbsp; *Team of 5*
+<!-- TODO: add the module(s) you implemented -->
+
+Social network with AI features handling **multimodal content**, built as a full Django application following the **MVT architecture**.
+- 🏗️ My part: system architecture (MVT), technology choices and the global class diagram
+
+### ♻️ WearAgain — Second-Life Clothing Platform
+`Laravel 12` `Blade` `Eloquent` `MySQL` `Docker` `GitHub Actions` `SonarQube` &nbsp;·&nbsp; 🔗 [Repository](https://github.com/hibachaabani/WearAgain)
+
+Laravel web app giving clothes a second life, with a **front office** for users and a **back office** for administrators.
+- 📍 **My module — Collection Points & Deposits**: `PointCollecte` and `Depot` entities, CRUD with relationships and validated forms
+- 🔐 Shared team work on authentication (Jetstream/Breeze) and front/back-office template integration
+- ⚙️ DevOps toolchain: GitHub Actions CI, Docker, SonarQube code quality, Prometheus & Grafana monitoring
+
 <details>
-<summary>📦 Other projects</summary>
+<summary><b>📦 Other projects</b></summary>
 <br>
 
-**💬 AI Chat Assistant** — Conversational chatbot with real-time responses, powered by an AI API integration. `Flutter` `OpenAI API` `REST API`
+**💬 AI Chat Assistant** — Conversational chatbot with real-time responses through an AI API integration. `Flutter` `OpenAI API` `REST API`
 
-**🚗 Car Rental Mobile App** — Mobile application for vehicle rental and booking management. `Android Studio` `Firebase`
+**🚗 Car Rental Mobile App** — Mobile app for vehicle rental and booking management. `Android Studio` `Firebase`
 
 </details>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=haythem-djebbi9&show_icons=true&locale=en&theme=default" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haythem-djebbi9&show_icons=true&locale=en&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=haythem-djebbi9&show_icons=true&locale=en&hide_border=true&title_color=0e75b6&icon_color=0e75b6" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haythem-djebbi9&locale=en&layout=compact&hide_border=true&title_color=0e75b6" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haythem-djebbi9&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub streak" />
 </p>
 
-<br>
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="mailto:djebbihaitem9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haythem-djebbi-785ab9219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/haythem-djebbi9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  I'm looking for a <b>PFE internship in France (2026-2027)</b> in Backend, Full-Stack or DevOps.<br>
+  If your team builds scalable products, I'd love to talk.
 </p>
 
 <p align="center">
-✨ Open to PFE opportunities, collaborations, and challenging engineering projects.
+  <a href="mailto:djebbihaitem9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/haythem-djebbi-785ab9219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/haythem-djebbi9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
